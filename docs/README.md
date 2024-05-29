@@ -1,4 +1,4 @@
-This contains the necessary files for the online book [https://mohangiri1.github.io/Fortran](https://mohangiri1.github.io/Python)
+This contains the necessary files for the online book [https://mohangiri1.github.io/Python](https://mohangiri1.github.io/Python)
 
 If you want to learn computational physics using Fortran, this could be an excellent resources for you to rely on. 
 
