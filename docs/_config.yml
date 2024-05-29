@@ -1,0 +1,7 @@
+title: "Python"
+theme: jekyll-theme-cayman
+source: docs
+markdown: kramdown
+highlighter: rouge
+
+
