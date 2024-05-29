@@ -3,10 +3,10 @@ Contains the Tutorial videos, examples of Python code in Jupyter Notebook and ma
 If you want to learn computational physics using Fortran, this could be an excellent resources for you to rely on. 
 
 # Easy to learn site in Python:
-[https://mohangiri1.github.io/Fortran](https://mohangiri1.github.io/Python)
+[https://mohangiri1.github.io/Python](https://mohangiri1.github.io/Python)
 
 # Fortran script files download location:
-[https://github.com/mohangiri1/Fortran/tree/main/examples](https://github.com/mohangiri1/Python/tree/main/examples)
+[https://github.com/mohangiri1/Python/tree/main/examples](https://github.com/mohangiri1/Python/tree/main/examples)
 
 # Easy to learn site in Fortran:
 [https://mohangiri1.github.io/Fortran](https://mohangiri1.github.io/Fortran)
