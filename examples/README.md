@@ -1,4 +1,5 @@
 # Examples
+
 1. Finding the Root of the equation:
   a. Bisection Method
   b. Newton's Raphson Method
